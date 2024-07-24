@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm NGÔ PHẠM TRI GÔ</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1fea8663ef8310ae0aa155fe9f8b2eeb0c7705d0c4f1312bdbe4e1692faab604/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6e6974632d7065726d697373696f6e2d73797374656d2e61707073706f742e636f6d2f6f2f6769746875622d696d61676573253246646877616e6973682d636f64696e672e6769663f616c743d6d65646961">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trigo02&label=Profile%20views&color=0e75b6&style=flat" alt="trigo02" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1fea8663ef8310ae0aa155fe9f8b2eeb0c7705d0c4f1312bdbe4e1692faab604/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6e6974632d7065726d697373696f6e2d73797374656d2e61707073706f742e636f6d2f6f2f6769746875622d696d61676573253246646877616e6973682d636f64696e672e6769663f616c743d6d65646961">
 
 - 🔭 I’m currently working on **HTML CSS & JS**
 
@@ -11,6 +11,8 @@
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
 - 📫 How to reach me **gotri4018@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAGL4pBEv7E/2Z7jjRmMihJo9A_rWxjoFg/edit?utm_content=DAGL4pBEv7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGL4pBEv7E/2Z7jjRmMihJo9A_rWxjoFg/edit?utm_content=DAGL4pBEv7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I am humorous and cheerful, open with everyone around me.**
 
